@@ -61,5 +61,7 @@ Check Output Files:
 
 ## Data Structure
 Song Data (Spotiy_data_YYYY-MM-DD.csv)
+![image](https://github.com/user-attachments/assets/8737adcc-ebd6-4889-9219-2054c1709d76)
 
 Artist Data (Spotiy_artist_data_YYYY-MM-DD.csv)
+![image](https://github.com/user-attachments/assets/4537addd-bfd5-4736-bfda-2ee53d637d75)
